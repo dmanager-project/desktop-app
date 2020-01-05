@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: white;
+}
+
+.vbox.side_menu {
+    -fx-border-color: white #f2f2f2 white white;
+    -fx-border-width: 1px;
+}
+
+.button {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+}
+
+.button.active {
+    -fx-background-color: #2674fd18;
+}
+
+.table-view .column-header .label {
+    -fx-alignment: CENTER_LEFT;
+}
